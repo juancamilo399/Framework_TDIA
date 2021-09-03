@@ -25,7 +25,7 @@ nivel de capas.
 Metodo encargado de realizar en entrenamiento de la red neuronal.
     
 ````
- NeuralNetwork.train(x_train,y_train,learning_rate,num_epochs,validation_data)
+ NeuralNetwork.train(x_train,y_train,learning_rate,num_epochs,test_data)
 ````
 
 ### Arguments
@@ -38,4 +38,4 @@ Metodo encargado de realizar en entrenamiento de la red neuronal.
 
 - num_epochs: número de epocas de entrenamiento.
 
-- validation_data: Tupla con los datos de validación.
+- test_data: Tupla con los datos de prueba.
