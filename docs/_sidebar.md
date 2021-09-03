@@ -1,0 +1,6 @@
+* [Home](/)
+* [Computación neuronal](neural/)
+    * [Layers](neural/layers.md)
+    * [Activation functions](neural/activation.md)
+    * [Cost functions](neural/cost.md)
+    * [Optimizers](neural/optimizer.md)
