@@ -9,7 +9,6 @@ Este framework ofrece varias implementaciones de funciones de activación.
 - Linear
 - Tanh
 
-***Los metodos de estas funciones son los siguientes.***
 
 ## Apply Method
 
