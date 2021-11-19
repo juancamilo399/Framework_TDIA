@@ -1,6 +1,6 @@
-# Layer Class
+# Layer Interface
 
-Este tipo de clases definen una capa de la red neuronal.
+Esta interfaz define una capa de la red neuronal, la implementación expuesto corresponde a una capa de tipo FullyConnected.
 
 ## FullyConnected
 
