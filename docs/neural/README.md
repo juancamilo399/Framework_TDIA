@@ -2,7 +2,7 @@
 
 ## Neural Network Class
 
-A continuación se detalla la definicion de la clase NeuralNetwork
+A continuación se detalla la definición de la clase NeuralNetwork
 
 ````
  NeuralNetwork(is_classification,is_binary,input_dim,layers,cost_function,optimizer)
