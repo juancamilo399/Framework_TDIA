@@ -71,7 +71,7 @@ A continuación se detalla el uso de este framework.
 
 Primeramente es necesario definir el modelo de la red neuronal que se usará para esto es necesario instanciar un objeto del tipo NeuralNetwork.
 
-A continuación se presenta un ejemplo de esta inicialización donde se especifica la dimensión de entrada, la lista de capas donde cada una indica su número de neuronas y función de activación, además se indica la función de costo y el optimizador a usar. De esta manera se definiria la arquitectura de la red neuronal para posteriormente entrenarla y usarla para predecir.
+A continuación se presenta un ejemplo de esta inicialización donde se especifica la dimensión de entrada junto con la lista de capas donde cada una indica su número de neuronas y función de activación, además se indica la función de costo y el optimizador a usar. De esta manera se definiria la arquitectura de la red neuronal para posteriormente entrenarla y usarla para predecir.
 
 ````
 nn = NeuralNetwork(is_classification,is_binary,
