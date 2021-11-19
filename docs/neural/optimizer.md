@@ -1,7 +1,6 @@
-# Optimizer Class
+# Optimizer Interface
 
-Este tipo de clases definen un optimizador. Este define la forma en la que la red neuronal
-es optimizada, es decir la forma en la que sus pesos son actualizados.
+Esta interfaz define un optimizador. Este define la forma en la que la red neuronal es optimizada, es decir la forma en la que sus pesos son actualizados. La implementación expuesta corresponde a un optimizador del tipo GradientDescent .
 
 ## GradientDescent
 
