@@ -1,11 +1,10 @@
 # Cost Class
 
-Este tipo de clases definen una función de costo, este tipo de clases tienen dos metodos
-correspondientes a aplicar la función y la derivada de esta misma.
+Esta interfaz define una función de costo, este tipo de clases tienen dos métodos correspondientes a aplicar la función y la derivada de esta misma.
 
-Este framework cuenta con varias funciones de costo. 
+Este framework ofrece varias implementaciones de funciones de costo. 
 
-- SoftmaxCrossEntropy
+- MeanSquaredError
 - SigmoidCrossEntropy
 
 ## Apply Method
