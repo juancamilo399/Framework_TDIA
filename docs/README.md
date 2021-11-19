@@ -9,4 +9,4 @@
 
 A continuación se presenta el diagrama de clases correspondiente
 
-![neural](clasesn.jpeg)
+![neural](clasesneural.jpeg)
