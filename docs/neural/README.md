@@ -5,11 +5,14 @@
 A continuación se detalla la definicion de la clase NeuralNetwork
 
 ````
- NeuralNetwork(input_dim,layers,cost_function,optimizer)
+ NeuralNetwork(is_classification,is_binary,input_dim,layers,cost_function,optimizer)
 ````
 
 ### Arguments
 
+- is_classification: Valor booleano que indica el tipo de problema (clasificación o regresión).
+- is_binary: Valor booleano que indica si es un problema de clasificación binaria o no.
+  
 - input_dim: Tupla de n elementos indicando las dimensiones de los datos de
 entrada a la red.
 
