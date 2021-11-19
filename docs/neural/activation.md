@@ -1,13 +1,13 @@
 # Activation Class
 
-Este tipo de clases definen una función de activación, generalmente estas tienen dos metodos
-correspondientes a aplicar la función y la derivada de esta misma.
+Esta interfaz define una función de activación, generalmente estas tienen dos métodos correspondientes a aplicar la función y la derivada de esta misma.
 
-Este framework cuenta con varias funciones de activación. 
+Este framework ofrece varias implementaciones de funciones de activación. 
 
 - Sigmoid
 - ReLu
-- Softmax
+- Linear
+- Tanh
 
 ***Los metodos de estas funciones son los siguientes.***
 
