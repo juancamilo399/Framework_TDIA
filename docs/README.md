@@ -1,11 +1,9 @@
-# Framework_TDIA
 
-## Computación Neuronal
+# Computación Neuronal
     
- Este componente ofrece la implementación de una red neuronal
- (*feedforward neural network*)
+Este framework ofrece la implementación de una red neuronal (*feedforward neural network*) ofreciendo los componentes necesarios para construir y entrenar un modelo.
  
-### Diagrama de clases
+## Diagrama de clases
 
 A continuación se presenta el diagrama de clases correspondiente
 
